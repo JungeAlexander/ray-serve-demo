@@ -12,6 +12,6 @@ serve run serve_deployment:translator_app
 python model_client.py  # Returns: Bonjour monde!
 
 serve run graph:app
- python composed_client.py # Returns: c'était le meilleur des temps, c'était le pire des temps .
+python composed_client.py # Returns: c'était le meilleur des temps, c'était le pire des temps .
 ```
 
